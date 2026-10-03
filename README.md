@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of foskym/flarum-user-badges-fix.** Not for installation: use [Packagist](https://packagist.org/packages/foskym/flarum-user-badges-fix) or the [upstream repository](https://github.com/FoskyM/flarum-user-badges-fix).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/foskym-flarum-user-badges-fix/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/foskym-flarum-user-badges-fix/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2024-08-30 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-user-badges-fix/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/foskym-flarum-user-badges-fix.json](https://github.com/flarchive/archive-index/blob/main/packages/foskym-flarum-user-badges-fix.json)
 
